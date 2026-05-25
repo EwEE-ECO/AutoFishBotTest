@@ -1,6 +1,6 @@
-# 🐟 AutoFishBot — Universal bot for MajesticRP
+# 🐟 AutoFishBot  Universal bot for MajesticRP
 
-**AutoFishBot** — универсальный бот для автоматизации рыбалки и других работ на сервере **MajesticRP**. Написан на AutoHotkey, безопасен, удобен и эффективен.
+**AutoFishBot** универсальный бот для автоматизации рыбалки и других работ на сервере **MajesticRP**. Написан на AutoHotkey, безопасен, удобен и эффективен.
 
 🔗 **Оригинальный репозиторий:** [PaulTwelve/AutoFishBot-MajesticRP](https://github.com/PaulTwelve/AutoFishBot-MajesticRP)
 
@@ -46,17 +46,17 @@
 
 ## 👥 Команда
 
-- **PaulTwelve** — разработчик
-- **KleoFox** — контент, SMM, графический дизайнер
-- **§™** — техподдержка
-- **Чебупель** — администратор чата
-- **EWEE** — Fullstack Master
-- **/. DEV .\** — техподдержка (покинул)
-- **KitKat** — дизайнер (покинул)
+- **PaulTwelve**  разработчик
+- **KleoFox**  контент, SMM, графический дизайнер
+- **§™**  техподдержка
+- **Чебупель**  администратор чата
+- **EWEE**  Fullstack Master
+- **/. DEV .\**  техподдержка (покинул)
+- **KitKat**  дизайнер (покинул)
 
 ## ❓ Частые вопросы
 
-Список решений типичных проблем — на странице [Bot Issues](faq.html) сайта.
+Список решений типичных проблем  на странице [Bot Issues](faq.html) сайта.
 
 ---
 
