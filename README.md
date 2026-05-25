@@ -4,6 +4,8 @@
 
 🔗 **Оригинальный репозиторий:** [PaulTwelve/AutoFishBot-MajesticRP](https://github.com/PaulTwelve/AutoFishBot-MajesticRP)
 
+🌐 **Сайт проекта:** [https://ewee-eco.github.io/AutoFishBotTest](https://ewee-eco.github.io/AutoFishBotTest)
+
 ---
 
 ## ✨ Возможности
